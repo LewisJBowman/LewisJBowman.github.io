@@ -1,4 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.lewisbowman.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'LewisBowman'
 theme = 'ananke'
+
+SectionPagesMenu = "main"
