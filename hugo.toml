@@ -1,6 +1,6 @@
 baseURL = 'https://www.lewisbowman.com/'
 languageCode = 'en-us'
 title = 'LewisBowman'
-theme = 'ananke'
+theme = 'PaperMod'
 
 SectionPagesMenu = "main"
