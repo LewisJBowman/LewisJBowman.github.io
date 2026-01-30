@@ -4,3 +4,8 @@ title = 'LewisBowman'
 theme = 'PaperMod'
 
 SectionPagesMenu = "main"
+
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = false
