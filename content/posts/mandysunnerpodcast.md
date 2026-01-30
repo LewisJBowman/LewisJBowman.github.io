@@ -1,7 +1,7 @@
 +++
 title = 'Im interviewed on the Mandy Sunner Podcast!'
 date = 2026-01-30T13:50:36Z
-draft = true
+draft = false
 +++
 
 Recently, I had the opportunity to be interviewed by the excellent Mandy Sunner (<https://www.linkedin.com/in/sunnermandy/>) for her new podcast series “The Mandy Sunner Show” (<https://www.youtube.com/@TheMandySunnerShow>).  Mandy and I discuss our personal motivations that drive us to the office each day and what inspires us to do better, and I don’t drone on about tech... too much.
